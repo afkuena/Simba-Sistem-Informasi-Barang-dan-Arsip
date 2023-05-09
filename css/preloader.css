@@ -1,0 +1,7 @@
+#preloader{
+    position: fixed;
+    width: 100%;
+    height: 100;
+    z-index: 999;
+    background: url(https://simpletexting.com/wp.content/themes/new_simpletexting/image/gif/loading-ttcredesign.gif) 50% no-repeat #fff;
+  }
