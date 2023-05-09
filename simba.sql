@@ -39,25 +39,8 @@ CREATE TABLE `admin` (
 -- Dumping data for table `admin`
 --
 
-INSERT INTO `admin` (`iduser`, `user`, `nama_lengkap`, `password`, `level`) VALUES
-(1, 'SuperAdmin', 'BPKAD', '8pk4d', 'Admin'),
-(2, 'miraw', 'Mira Wildanur', 'wildanur19', 'Arsip Anggaran'),
-(3, 'pegawai1', 'BPKAD', 'karawangkab', 'Pegawai'),
-(4, 'perben_dhea', 'Dhea Dewanto', 'karawangkab', 'Arsip Perbendaharaan'),
-(5, 'abay', 'danabar', '221204', 'Admin'),
-(6, 'nawahmr', 'Nawa Hayu Mara Rian', '123456', 'Admin'),
-(7, 'supplier1', 'Supplier', 'karawangkab', 'Supplier'),
-(8, 'Mumut', 'Muthia Muthmainah', 'bpkad2023', 'Arsip Akuntansi'),
-(9, 'iranury', 'Ira Nury', 'iranury155', 'Arsip Aset'),
-(10, 'Ryanbastian', 'Ryan Bastian Prayoga', 'karawang12345', 'Arsip Perbendaharaan'),
-(11, 'dewiaset', 'Sri Dewi Yuniarni Purwa A', '200901', 'Arsip Aset'),
-(12, 'dani', 'Ramdani Ahadi', 'admin01', 'Arsip Aset'),
-(13, 'dede', 'Dede Hermawan', 'admin02', 'Arsip Aset'),
-(14, 'elitr', 'Eli Tri Rudiyati', 'eli304', 'Arsip Anggaran'),
-(15, 'kurnia', 'kurnia wijayanti', '12345', 'Arsip Sekretariat'),
-(16, 'Mutia', 'Mutia Nur Anisya', '123456789', 'Arsip Anggaran'),
-(17, 'ilma', 'Ilma Yuannisa', 'karawangkab', 'Arsip Akuntansi'),
-(18, 'fitri', 'Fitria Mansyur', 'karawangkab', 'Arsip Sekretariat');
+INSERT INTO `admin` (`iduser`, `user`, `nama_lengkap`, `password`, `level`)
+
 
 -- --------------------------------------------------------
 
